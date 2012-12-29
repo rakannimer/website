@@ -1,0 +1,12 @@
+{
+  "name": "LOSS",
+  "version": "0.1.0",
+  "description": "The website of Lebanese OSS",
+  "dependencies": {
+    "express": "3.0.x",
+    "jade": "0.27.x"
+  },
+  "scripts": {},
+  "author": "Piotr Yordanov",
+  "license": "MIT"
+}
