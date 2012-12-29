@@ -7,6 +7,10 @@
     "jade": "0.27.x"
   },
   "scripts": {},
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
   "author": "Piotr Yordanov",
   "license": "MIT"
 }
