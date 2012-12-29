@@ -7,4 +7,4 @@ Source code of the website
 
 **Fonts:** Roboto fonts as [Donald Derek Haddad](https://github.com/DonaldDerek) Suggested.
 
-**Background Pattern:** from [subtlepatterns](http://subtlepatterns.com/) as suggested by [chafic Najjar](https://github.com/chaficnajjar)
+**Background Pattern:** from [subtlepatterns](http://subtlepatterns.com/) as suggested by [Chafic Najjar](https://github.com/chaficnajjar)
